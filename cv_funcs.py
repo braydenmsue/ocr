@@ -26,3 +26,8 @@ def getDoG(greyscale):
 
     return result
 
+# TO IMPLEMENT
+
+# segmentation of characters
+# ML model to recognize characters
+
